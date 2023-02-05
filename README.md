@@ -20,7 +20,7 @@
     <img align="center" alt="Git/GitHub" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img align="center" alt="Git/GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img align="center" alt="Git/GitHub" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" />
-</div>
+</div> 
 
 
 ##### I'm passionate about learning and designing new solutions. I am always improving my abilities in technologies that make people's lives easier.
