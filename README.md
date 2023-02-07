@@ -23,5 +23,3 @@
     <img align="center" alt="Git/GitHub" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div> 
 
-
-##### I'm passionate about learning and designing new solutions. I am always improving my abilities in technologies that make people's lives easier.
