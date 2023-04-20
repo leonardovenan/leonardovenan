@@ -2,7 +2,7 @@
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardovenan&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovenan&langs_count=6)](https://github.com/leonardovenan/github-readme-stats&theme=dracula&layout=hidden&hide_progress=true)"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovenan&langs_count=6&layout=hidden&hide_progress=true)](https://github.com/leonardovenan/github-readme-stats&theme=dracula)"/>
 </div>
 
 ### Tecnologias que uso no meu dia
