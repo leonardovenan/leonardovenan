@@ -2,9 +2,9 @@
 
 <div>
     <img height="180em" 
-        src="https://github-readme-stats.vercel.app/api?username=leonardovenan&theme=transparent&show_icons=true" />
+        src="https://github-readme-stats.vercel.app/api?username=leonardovenan&theme=radical&show_icons=true" />
     <img height="180em" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovenan&hide_progress=true&theme=transparent" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovenan&hide_progress=true&theme=radical" />
 </div>
 
 ### Tecnologias que uso no meu dia
