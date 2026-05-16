@@ -7,16 +7,10 @@ I'm a Data Engineer with experience in building pipelines, lakehouse architectur
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardovenan)
 
 <div align="center">
-  <img 
-    height="180em" 
-    alt="Leonardo Venancio GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=leonardovenan&theme=tokyonight&show_icons=true" 
-  />
-  <img 
-    height="180em" 
-    alt="Leonardo Venancio Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovenan&hide_progress=true&theme=tokyonight" 
-  />
+
+[![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardovenan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovenan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
