@@ -1,19 +1,27 @@
-## Olá, eu sou o Leonardo Venancio 👋
+## Hi, I'm Leonardo Venancio 👋
 
-Sou Engenheiro de Dados, com experiência em construção de pipelines, lakehouses, modelagem analítica, cloud data platforms e migração de arquiteturas de dados.
+I'm a Data Engineer with experience in building pipelines, lakehouse architectures, analytical data models, cloud data platforms, and data platform migrations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-venancio-correia-3279b210b/)
 [![Lattes](https://img.shields.io/badge/Lattes-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://lattes.cnpq.br/4816788536590479)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardovenan)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardovenan&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovenan&hide_progress=true&theme=tokyonight" />
+  <img 
+    height="180em" 
+    alt="Leonardo Venancio GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=leonardovenan&theme=tokyonight&show_icons=true" 
+  />
+  <img 
+    height="180em" 
+    alt="Leonardo Venancio Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovenan&hide_progress=true&theme=tokyonight" 
+  />
 </div>
 
 ---
 
-### Tecnologias que uso no meu dia a dia
+### Technologies I use in my daily work
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -36,7 +44,7 @@ Sou Engenheiro de Dados, com experiência em construção de pipelines, lakehous
   <img align="center" alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img align="center" alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img align="center" alt="BigQuery" src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-  <img align="center" alt="Redshift" src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" />
+  <img align="center" alt="Amazon Redshift" src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" />
 </div>
 
 <div style="display: inline_block"><br/>
@@ -55,13 +63,14 @@ Sou Engenheiro de Dados, com experiência em construção de pipelines, lakehous
 
 ---
 
-### Principais focos
+### Main focus areas
 
-- Engenharia de Dados
-- Pipelines ETL/ELT
-- Lakehouse com Databricks e Delta Lake
-- Migração de ambientes de dados
-- Modelagem analítica
-- Cloud Data Platforms
-- CI/CD para dados
-- Processamento distribuído com Spark
+- Data Engineering
+- ETL/ELT pipelines
+- Lakehouse architecture with Databricks and Delta Lake
+- Data platform migration
+- Analytical data modeling
+- Cloud data platforms
+- CI/CD for data projects
+- Distributed processing with Apache Spark
+- Data warehousing and analytics engineering
