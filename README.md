@@ -9,9 +9,9 @@ I'm a Data Engineer with experience in building pipelines, lakehouse architectur
 ---
 
 <div align="center">
-  <img 
-    alt="Leonardo's GitHub Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=leonardovenan&theme=tokyo-night&hide_border=true"
+  <img
+    alt="Leonardo's GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=leonardovenan&show_icons=true&theme=tokyonight&hide_border=true"
   />
 </div>
 
