@@ -9,10 +9,10 @@ I'm a Data Engineer with experience in building pipelines, lakehouse architectur
 ---
 
 <div align="center">
-  <img
-    alt="Leonardo's GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=leonardovenan&show_icons=true&theme=tokyonight&hide_border=true"
-  />
+
+[![GitHub followers](https://img.shields.io/github/followers/leonardovenan?style=for-the-badge&logo=github&label=Followers)](https://github.com/leonardovenan?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/leonardovenan?style=for-the-badge&logo=github&label=Stars)](https://github.com/leonardovenan?tab=repositories)
+
 </div>
 
 ---
