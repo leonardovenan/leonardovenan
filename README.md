@@ -13,6 +13,10 @@ I'm a Data Engineer with experience in building pipelines, lakehouse architectur
 [![GitHub followers](https://img.shields.io/github/followers/leonardovenan?style=for-the-badge&logo=github&label=Followers)](https://github.com/leonardovenan?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/leonardovenan?style=for-the-badge&logo=github&label=Stars)](https://github.com/leonardovenan?tab=repositories)
 
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardovenan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovenan&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
