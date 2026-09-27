@@ -8,16 +8,19 @@ I'm a Data Engineer with experience in building pipelines, lakehouse architectur
 
 ---
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/leonardovenan?tab=followers">
+    <img src="https://img.shields.io/github/followers/leonardovenan?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/leonardovenan?tab=repositories">
+    <img src="https://img.shields.io/github/stars/leonardovenan?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars">
+  </a>
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/leonardovenan?style=for-the-badge&logo=github&label=Followers)](https://github.com/leonardovenan?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/leonardovenan?style=for-the-badge&logo=github&label=Stars)](https://github.com/leonardovenan?tab=repositories)
-
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardovenan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovenan&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardovenan&show_icons=true&theme=tokyonight&hide_border=true" alt="Leonardo's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovenan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
 
 ---
 
